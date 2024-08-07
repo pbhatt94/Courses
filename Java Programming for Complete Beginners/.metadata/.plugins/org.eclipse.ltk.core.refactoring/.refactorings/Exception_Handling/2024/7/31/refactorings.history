@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private static void method1() throws InterruptedException &apos; from &apos;com.in28Minutes.exceptionhandling.CheckedExceptionRunner.main(...)&apos; to &apos;com.in28Minutes.exceptionhandling.CheckedExceptionRunner&apos;&#x0D;&#x0A;- Original project: &apos;Exception_Handling&apos;&#x0D;&#x0A;- Method name: &apos;method1&apos;&#x0D;&#x0A;- Destination type: &apos;com.in28Minutes.exceptionhandling.CheckedExceptionRunner&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;method1&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;com.in28Minutes.exceptionhandling{CheckedExceptionRunner.java" name="method1" replace="false" selection="130 19" stamp="1722231415590" version="1.0" visibility="2"/>
+</session>

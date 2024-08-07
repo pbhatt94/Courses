@@ -1,0 +1,13 @@
+package design_patterns;
+
+public class DbConnectionLazy {
+	private static DbConnectionLazy dbConnection;
+
+	private DbConnectionLazy() {
+
+	}
+
+	public static DbConnectionLazy getInstance() {
+		return dbConnection;
+	}
+}

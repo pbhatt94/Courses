@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;dir&apos; from expression &apos;Paths.get(&quot;.&quot;)&apos;&#x0D;&#x0A;- Original project: &apos;files&apos;&#x0D;&#x0A;- Variable name: &apos;dir&apos;&#x0D;&#x0A;- Destination method: &apos;files.DirectoryScanRunner.main(...)&apos;&#x0D;&#x0A;- Variable expression: &apos;Paths.get(&quot;.&quot;)&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;dir&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;files{DirectoryScanRunner.java" name="dir" replace="true" replaceAllInThisFile="false" selection="218 14" stamp="1722240558571" varType="false" version="1.0"/>
+</session>

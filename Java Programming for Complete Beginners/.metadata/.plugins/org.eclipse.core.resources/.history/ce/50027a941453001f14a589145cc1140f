@@ -1,0 +1,13 @@
+package design_patterns;
+
+public class DbConnection {
+	private static DbConnectionEager connection = new DbConnectionEager();
+
+	private DbConnection() {
+
+	}
+
+	public static DbConnectionEager getInstance() {
+		return connection;
+	}
+}

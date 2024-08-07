@@ -1,0 +1,7 @@
+package com.in28minutes.api.d;
+
+public class StringNewApiRunner {
+	public static void main(String[] args) {
+		System.out.println("     ".isBlank());
+	}
+}

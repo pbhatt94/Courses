@@ -1,0 +1,21 @@
+package concurrency;
+
+public class BiCounter {
+	private int i, j = 0;
+
+	public void incrementI() {
+		i++;
+	}
+
+	public void incrementJ() {
+		j++;
+	}
+
+	public int getI() {
+		return i;
+	}
+
+	public int getJ() {
+		return j;
+	}
+}

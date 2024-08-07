@@ -1,0 +1,5 @@
+package com.somethingrandom.exceptions;
+
+public class CustomExceptionRunner {
+
+}

@@ -1,0 +1,7 @@
+package com.in28minutes.generics;
+
+public class GenericsRunner {
+	public static void main(String[] args) {
+		MyCusom list = new MyCustomList();
+	}
+}

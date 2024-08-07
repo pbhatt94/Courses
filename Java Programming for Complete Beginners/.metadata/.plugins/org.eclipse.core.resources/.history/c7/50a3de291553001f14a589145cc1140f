@@ -1,0 +1,16 @@
+package design_patterns;
+
+public class DbConnectionSynchronized {
+	private static DbConnectionSynchronized dbConnection;
+
+	private DbConnectionSynchronized() {
+
+	}
+
+	public static DbConnectionSynchronized getInstance() {
+		if (dbConnection == null) {
+			dbConnection = new DbConnectionSynchronized();
+		}
+		return dbConnection;
+	}
+}

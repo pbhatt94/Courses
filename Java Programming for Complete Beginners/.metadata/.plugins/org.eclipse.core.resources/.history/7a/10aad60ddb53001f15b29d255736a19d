@@ -1,0 +1,14 @@
+package design_patterns.abstract_factory;
+
+public class LuxuryCarFactory implements AbstractFactory {
+
+	@Override
+	public Car getInstance(int price) {
+		if (price > 1000000 && price <= 5000000)
+			return new LuxuryCar1();
+		else if (price <= 100000000)
+			return new EconomicCar2();
+		return null;
+	}
+
+}

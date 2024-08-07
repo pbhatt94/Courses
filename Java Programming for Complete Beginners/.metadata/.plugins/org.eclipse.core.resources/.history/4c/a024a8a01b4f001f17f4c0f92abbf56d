@@ -1,0 +1,5 @@
+package com.in28minutes.api.e;
+
+public class TypeInferencesRunner {
+
+}

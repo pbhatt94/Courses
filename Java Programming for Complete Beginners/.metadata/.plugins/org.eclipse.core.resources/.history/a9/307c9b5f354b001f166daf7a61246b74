@@ -1,0 +1,8 @@
+package com.in28Minutes.exceptionhandling;
+
+public class ExceptionHandlingRunner {
+	public static void main(String[] args) {
+		String str = null;
+		str.length();
+	}
+}

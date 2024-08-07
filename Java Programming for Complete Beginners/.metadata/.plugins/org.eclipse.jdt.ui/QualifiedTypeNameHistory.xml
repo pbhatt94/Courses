@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.number.demo.MyNumber"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.number.demo.WhileNumberPlayer"/>
+    <fullyQualifiedTypeName name="com.something.arrays.StudentRunner"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="com.in28Minutes.oops.level2.Address"/>
+    <fullyQualifiedTypeName name="java.lang.AbstractMethodError"/>
+    <fullyQualifiedTypeName name="com.in28Minutes.oops.level2.AbstractRecipe"/>
+    <fullyQualifiedTypeName name="com.in28Minutes.oops.interfaces.MarioGame"/>
+    <fullyQualifiedTypeName name="com.in28Minutes.oops.interfaces.GamingConsole"/>
+    <fullyQualifiedTypeName name="com.in28Minutes.oops.interfaces.ComplexAlgorithm"/>
+    <fullyQualifiedTypeName name="com.in28Minutes.oops.interfaces.DummyAlgorithm"/>
+    <fullyQualifiedTypeName name="collections.StudentsCollectionRunner"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="collections.DescendingStudentComparator"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.locks.ReentrantLock"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.locks.Lock"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.atomic.AtomicBoolean"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.atomic.AtomicInteger"/>
+    <fullyQualifiedTypeName name="java.lang.Long"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.atomic.LongAdder"/>
+    <fullyQualifiedTypeName name="concurrency.CopyOnWriteArrayListRunner"/>
+    <fullyQualifiedTypeName name="com.in28minutes.sorting.util.MySortingUtil"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.nio.file.Paths"/>
+    <fullyQualifiedTypeName name="com.in28minutes.api.c.PredicateNotRunner"/>
+    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="design_patterns.DbConnectionDoubleLock"/>
+    <fullyQualifiedTypeName name="design_patterns.factory.AndroidDeveloper"/>
+    <fullyQualifiedTypeName name="design_patterns.factory.WebDeveloper"/>
+    <fullyQualifiedTypeName name="design_patterns.factory.Employee"/>
+    <fullyQualifiedTypeName name="design_patterns.factory.EmployeeFactory"/>
+</qualifiedTypeNameHistroy>

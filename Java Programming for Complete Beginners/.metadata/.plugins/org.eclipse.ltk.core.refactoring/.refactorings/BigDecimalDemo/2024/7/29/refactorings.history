@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.bigDecimal.demo.BigDecimalCalculatorRunner.java&apos; to &apos;SimpleInterestCalculatorRunner.java&apos;&#x0D;&#x0A;- Original project: &apos;BigDecimalDemo&apos;&#x0D;&#x0A;- Original element: &apos;com.bigDecimal.demo.BigDecimalCalculatorRunner.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.bigDecimal.demo.SimpleInterestCalculatorRunner.java&apos;" description="Rename compilation unit &apos;BigDecimalCalculatorRunner.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.bigDecimal.demo{BigDecimalCalculatorRunner.java" name="SimpleInterestCalculatorRunner.java" references="false" stamp="1721206762313" version="1.0"/>
+</session>

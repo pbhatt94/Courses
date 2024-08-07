@@ -1,0 +1,12 @@
+package com.in28minutes.consumer;
+
+import java.util.List;
+
+import com.in28minutes.sorting.util.MySortingUtil;
+
+public class MySortingUtilConsumer {
+	public static void main(String[] args) {
+		MySortingUtil util = new MySortingUtil();
+		List<String> sortedList = util.sort(List.of("name1", "Name2", "something"));
+	}
+}
